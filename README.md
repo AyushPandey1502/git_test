@@ -1,1 +1,1 @@
-# Hello myself Ayush Pandey.
+Hello myself Ayush Pandey.
